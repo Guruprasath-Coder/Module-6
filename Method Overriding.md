@@ -29,9 +29,10 @@ obj_hammerhead = Shark()
 for obj in (obj_goldfish, obj_hammerhead):
     obj.type()
 
+```
 ## OUTPUT
-fish
-shark
+![image](https://github.com/user-attachments/assets/fc84bcbd-4502-44b2-bd78-396bdd996d19)
+
 
 ## RESULT
 The program successfully demonstrates method overriding in Python by creating a parent class Fish and a child class Shark that overrides the type() method.
