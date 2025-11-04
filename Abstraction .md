@@ -58,9 +58,9 @@ circle = Circle(7)
 print("Area of Rectangle:", rect.calculate_area())
 print("Area of Circle:", circle.calculate_area())
 
+```
 ## Output
-Area of Rectangle: 50
-Area of Circle: 153.86
+![image](https://github.com/user-attachments/assets/7b2ffd74-5cf9-4020-828a-e8a8f8a0cfc9)
 
 ## Result
 The program successfully demonstrates the concept of abstract classes and methods in Python by implementing calculate_area() in both Rectangle and Circle subclasses.
