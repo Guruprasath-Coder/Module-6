@@ -32,9 +32,9 @@ class Rectangle:
         print("Breadth:", self.__breadth)
 rect = Rectangle(10, 5)
 
+```
 ## Output
-Length: 10
-Breadth: 5
+![image](https://github.com/user-attachments/assets/63fc5989-f95c-4771-8490-bdff81b7eeb4)
 
 ## Result
 The program successfully demonstrates Encapsulation in Python by using private members __length and __breadth in the Rectangle class.
