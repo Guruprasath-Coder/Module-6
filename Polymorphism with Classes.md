@@ -49,11 +49,9 @@ obj2 = Mango()
 func(obj1)
 func(obj2)
 
+```
 ## Output
-Vegetable
-Green
-Fruit
-Yellow
+![image](https://github.com/user-attachments/assets/2a50a3e8-3cee-455c-9ade-f6ed33b9411f)
 
 ## Result
 The program successfully demonstrates polymorphism in Python OOP by using a generic function that works with different classes (Beans and Mango) and calls their respective methods.
